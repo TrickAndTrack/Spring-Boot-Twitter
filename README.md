@@ -43,4 +43,7 @@ Client ID -> 0oa8v275b7Q8zcvWe5d7
 Client ID -> 0oa8v3fzcmm3Hn5El5d7
 CLIENT SECRETS -> OUnfxA4V9_ccTdOpMeaZvu9N-A6VmQQf_rKXoorE
 
+# Still waiting for approval
+![image](https://user-images.githubusercontent.com/73180409/227788671-ee0132ac-5ee9-47b2-8c0e-9f3245bf5cea.png)
+
 
